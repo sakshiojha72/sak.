@@ -72,10 +72,8 @@ function App() {
             <div className="brand text-3xl font-md">sak.</div>
             <div className="links flex gap-10 text-2xl font-light">
               {[
-                "What we do",
-                "Who we are",
-                "How we give back",
-                "Talk to us",
+
+                "  ",
               ].map((link, index) => (
                 <a
                   key={index}
